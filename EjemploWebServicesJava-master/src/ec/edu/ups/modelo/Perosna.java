@@ -44,7 +44,6 @@ public class Perosna implements Serializable {
 		result = prime * result + id;
 		return result;
 	}
-
 	@Override
 	public boolean equals(Object obj) {
 		if (this == obj)
